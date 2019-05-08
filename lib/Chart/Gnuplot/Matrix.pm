@@ -307,3 +307,5 @@ set output "[[OUTPUT_FILE]]"
 plot '[[DATA_FILENAME]]' matrix nonuniform with image notitle
   /;
 }
+
+1;
